@@ -1,3 +1,5 @@
+ "REMOTE"
+
 # nv_depot
 
 "LOCAL"
